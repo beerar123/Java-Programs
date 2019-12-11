@@ -25,7 +25,7 @@ public class DeleteCommunicationsV1 {
 	{
 		System.out.println("unable to find the chrome driver");
 	}
-
+//testing
 	WebDriver driver = new ChromeDriver();
 		// maximizing the browser
 	driver.manage().window().maximize();
